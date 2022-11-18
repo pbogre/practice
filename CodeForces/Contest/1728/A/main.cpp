@@ -13,7 +13,6 @@ void solve(){
 		}
 	}
 	cout << hi+1 << endl;
-	
 }
 
 int main(){
